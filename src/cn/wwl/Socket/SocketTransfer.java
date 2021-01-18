@@ -9,10 +9,10 @@ import java.nio.charset.StandardCharsets;
 
 /**
  * @ClassName SocketTransfer
- * @Description //TODO
- * @Author WangWeiLi
+ * @Description Transfer message to CSGO
+ * @Author wwlwwl
  * @Date 2021/1/2 10:23
- * @Version //TODO
+ * @Version 1.0
  **/
 public class SocketTransfer {
 

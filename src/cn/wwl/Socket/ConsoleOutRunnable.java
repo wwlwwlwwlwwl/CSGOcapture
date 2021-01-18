@@ -7,10 +7,10 @@ import java.util.Arrays;
 
 /**
  * @ClassName ConsoleOutRunnable
- * @Description //TODO
+ * @Description Output the console message
  * @Author WangWeiLi
  * @Date 2021/1/2 10:26
- * @Version //TODO
+ * @Version 1.0
  **/
 public class ConsoleOutRunnable implements Runnable {
 
